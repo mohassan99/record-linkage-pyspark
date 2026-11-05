@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1470" width="1080" height="1470" role="img" aria-label="Three member records with different spellings are scored pairwise and merged into one person">
+<rect x="0" y="0" width="1080" height="1470" fill="#ffffff"/>
+<rect x="60" y="54" width="301" height="46" rx="23" fill="#0f766e"/>
+<text x="80" y="86" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#ffffff" text-anchor="start">HIDDEN DUPLICATES</text>
+<text x="60" y="170" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="50" font-weight="700" fill="#1f2933" text-anchor="start">One member, three records,</text>
+<text x="60" y="228" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="50" font-weight="700" fill="#1f2933" text-anchor="start">zero exact matches</text>
+<text x="60" y="278" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#64707d" text-anchor="start">WHAT IS IN THE TABLE</text>
+<rect x="60" y="294" width="980" height="50" fill="#edf0f3"/>
+<text x="78" y="326" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#64707d" text-anchor="start">MEMBER ID</text>
+<text x="206" y="326" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#64707d" text-anchor="start">NAME</text>
+<text x="496" y="326" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#64707d" text-anchor="start">BIRTH DATE</text>
+<text x="732" y="326" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#64707d" text-anchor="start">ADDRESS</text>
+<text x="78" y="386" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="25" font-weight="400" fill="#1f2933" text-anchor="start">1001</text>
+<text x="206" y="386" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1f2933" text-anchor="start">Maria Gonzalez</text>
+<text x="496" y="386" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1f2933" text-anchor="start">04/12/1961</text>
+<text x="732" y="386" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1f2933" text-anchor="start">12 Oak St Apt 4</text>
+<line x1="60" y1="410" x2="1040" y2="410" stroke="#d6dce3" stroke-width="2"/>
+<text x="78" y="452" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="25" font-weight="400" fill="#1f2933" text-anchor="start">2087</text>
+<text x="206" y="452" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1f2933" text-anchor="start">Maria Gonzales</text>
+<text x="496" y="452" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1f2933" text-anchor="start">04/12/1961</text>
+<text x="732" y="452" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1f2933" text-anchor="start">12 Oak Street #4</text>
+<line x1="60" y1="476" x2="1040" y2="476" stroke="#d6dce3" stroke-width="2"/>
+<text x="78" y="518" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="25" font-weight="400" fill="#1f2933" text-anchor="start">3342</text>
+<text x="206" y="518" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1f2933" text-anchor="start">M. Gonzalez</text>
+<text x="496" y="518" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1f2933" text-anchor="start">1961-04-12</text>
+<text x="732" y="518" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1f2933" text-anchor="start">12 Oak St Unit 4</text>
+<rect x="60" y="294" width="980" height="248" fill="none" stroke="#d6dce3" stroke-width="2"/>
+<rect x="60" y="562" width="960" height="58" rx="10" fill="#fdeceA"/>
+<text x="82" y="601" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#b2261c" text-anchor="start">Same person. An exact match returns 0 duplicates.</text>
+<text x="60" y="686" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#64707d" text-anchor="start">SCORE EVERY PAIR, THEN FOLLOW THE CHAIN</text>
+<line x1="488" y1="850" x2="342" y2="944" stroke="#0f766e" stroke-width="5"/>
+<rect x="370" y="872" width="90" height="50" rx="12" fill="#ffffff" stroke="#0f766e" stroke-width="4"/>
+<text x="415" y="908" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#0f766e" text-anchor="middle">0.98</text>
+<line x1="592" y1="850" x2="738" y2="944" stroke="#0f766e" stroke-width="5"/>
+<rect x="620" y="872" width="90" height="50" rx="12" fill="#ffffff" stroke="#0f766e" stroke-width="4"/>
+<text x="665" y="908" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#0f766e" text-anchor="middle">0.90</text>
+<line x1="352" y1="978" x2="728" y2="978" stroke="#0f766e" stroke-width="5"/>
+<rect x="495" y="953" width="90" height="50" rx="12" fill="#ffffff" stroke="#0f766e" stroke-width="4"/>
+<text x="540" y="989" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#0f766e" text-anchor="middle">0.88</text>
+<circle cx="540" cy="816" r="62" fill="#0f766e"/>
+<text x="540" y="827" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">1001</text>
+<text x="540" y="739" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#1f2933" text-anchor="middle">Maria Gonzalez</text>
+<circle cx="290" cy="978" r="62" fill="#0f766e"/>
+<text x="290" y="989" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">2087</text>
+<text x="290" y="1073" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#1f2933" text-anchor="middle">Maria Gonzales</text>
+<circle cx="790" cy="978" r="62" fill="#0f766e"/>
+<text x="790" y="989" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">3342</text>
+<text x="790" y="1073" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#1f2933" text-anchor="middle">M. Gonzalez</text>
+<text x="60" y="1127" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="400" fill="#1f2933" text-anchor="start">All three scores clear the 0.75 bar. They do not all have to: if A links to B</text>
+<text x="60" y="1165" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="400" fill="#1f2933" text-anchor="start">and B links to C, then A, B and C are one person.</text>
+<text x="60" y="1220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#64707d" text-anchor="start">WHAT YOU KEEP</text>
+<rect x="60" y="1236" width="960" height="112" rx="12" fill="#e5f5ea" stroke="#186e30" stroke-width="3"/>
+<text x="88" y="1283" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="31" font-weight="700" fill="#1f2933" text-anchor="start">Maria Gonzalez</text>
+<text x="88" y="1323" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#1f2933" text-anchor="start">1961-04-12   ·   12 oak st apt 4</text>
+<text x="992" y="1280" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="23" font-weight="400" fill="#186e30" text-anchor="end">old_ids: 1001, 2087, 3342</text>
+<text x="992" y="1322" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#965f0a" text-anchor="end">flagged for review</text>
+<text x="60" y="1393" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="400" fill="#64707d" text-anchor="start">Keep the old IDs so a wrong merge can be undone.</text>
+<text x="60" y="1437" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="400" fill="#64707d" text-anchor="start">Illustrative records.  On blocking and all-pairs cost: Christen, IEEE Trans. Knowl. Data Eng. 24(9).</text>
+</svg>
