@@ -14,7 +14,7 @@ they match and start scoring how close they are.
 
 `find_hidden_duplicates.py` does that in five steps, in PySpark, on Databricks or a laptop.
 
-![How three records become one](docs/hidden-duplicates.png)
+![How three records become one](docs/hidden-duplicates.svg)
 
 ## The five steps
 
